@@ -5,13 +5,8 @@ How to built request and response middlewares with Go and Gorilla
 
 ## Run
 ```bash
-<<<<<<< HEAD
 $ clone github.com/ritego/middlewares-with-go-and-gorilla
 $ cd middlewares-with-go-and-gorilla
-=======
-$ git clone https://github.com/ritego/boilerplate [name]
-$ cd [name]
->>>>>>> df0c964da2b73b8fa2b46fb7357e4fb1e33e782c
 $ go run main.go
 ```
 
